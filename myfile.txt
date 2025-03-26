@@ -15,4 +15,4 @@ Undoing Changes: If you stage something but later decide you don't want it in th
 In summary, the staging area in Git provides a buffer zone where changes can be reviewed and selectively prepared before being permanently committed to the repository's history. It gives you control over how your commit history is structured.
 =======
 Changes made from gitHub
->>>>>>> d268145c865265abe7c37c42945c22783740d69d
+
